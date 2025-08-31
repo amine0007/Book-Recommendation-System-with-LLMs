@@ -1,6 +1,6 @@
 # Book-Recommendation-System-with-LLMs
 
-This repository contains the code for an end-to-end book recommendation system built using Python and large language models (LLMs). The project follows the tutorial by JetBrains, demonstrating a content-based recommendation approach that finds similarities based on the actual book content, making it effective for discovering new and niche titles.
+This repository contains the code for an end-to-end book recommendation system built using Python and large language models (LLMs). The project is demonstrating a content-based recommendation approach that finds similarities based on the actual book content, making it effective for discovering new and niche titles.
 
 # About the Project
 This project leverages the power of LLMs to analyze book data and provide personalized recommendations. It's designed to be a practical, real-world example of applying modern NLP techniques to a common recommendation task. The system goes beyond simple keyword matching, taking a user's query and suggesting books that are not only topically similar but also match a specific tone or style. This semantic understanding is key to providing a more intuitive user experience.
